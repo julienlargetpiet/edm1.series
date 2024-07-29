@@ -1,3 +1,18 @@
+![](logo.png)
+
+# Install
+
+-> git clone https://github.com/julienlargetpiet/edm1.series
+
+-> cd edm1.series
+
+edm1.series > R
+
+R > library("devtools")
+
+R > build()
+
+R > install()
 
 # `historic_sequence`
 
